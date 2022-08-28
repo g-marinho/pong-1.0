@@ -41,12 +41,6 @@ I'm at the beginning of my journey with web development. This is my first projec
 
 This application/site was created as a submission to a [Alura](https://alura.com.br) challenge.
 
-
-## Acknowledgements
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Criar site responsivo: aprenda como fazer usando classes no CSS](https://www.hostinger.com.br/tutoriais/criar-site-responsivo-css)
-
 ## Contact
 
 - GitHub [@g-marinho](https://github.com/g-marinho)
