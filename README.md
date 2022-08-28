@@ -39,7 +39,7 @@ I'm at the beginning of my journey with web development. This is my first projec
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [Alura](https://alura.com.br) challenge.
 
 
 ## Acknowledgements
